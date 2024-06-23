@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": null,
+        "title": "NBA all-time great Jerry West dies at age 86 - ESPN",
+        "description": "Jerry West, a three-time Basketball Hall of Famer whose silhouette is considered to be the basis of the NBA logo, has died at age 86.",
+        "url": "https://www.espn.com/nba/story/_/id/40333628/nba-all-great-jerry-west-dies-age-86",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0612%2Fr1344851_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-06-12T13:56:00Z",
+        "content": "Jun 12, 2024, 09:56 AM ET\r\nJerry West, who was selected to the Basketball Hall of Fame three times in a storied career as a player and executive and whose silhouette is considered to be the basis of … [+8016 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": null,
+        "title": "Iowa standout Caitlin Clark declares for 2024 WNBA Draft",
+        "description": "Iowa star Caitlin Clark, who passed Lynette Woodard for the major-college women's basketball scoring mark Wednesday night, announced that she has declared for the 2024 WNBA Draft.",
+        "url": "http://www.foxsports.com/stories/womens-college-basketball/iowa-standout-caitlin-clark-declares-for-2024-wnba-draft",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/CaitlinDraft.jpg?ve=1&tl=1",
+        "publishedAt": "2024-02-29T21:49:01Z",
+        "content": "Iowa star Caitlin Clark, the all-time leading scorer in major-women's college basketball history, has declared for the 2024 WNBA Draft, she announced in a social media post Thursday.\r\nClark is a seni… [+671 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "John Fanta, Michael Cohen",
+        "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+        "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+        "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+        "publishedAt": "2024-02-29T20:59:30Z",
+        "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+      }
+    ]
+  }
